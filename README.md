@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+<div align="center">
+  <img height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlveWU5NXlpbXM5MTR0Y3V4MHkwMXlyYnZtZjljeGtla2xiYml5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
+</div>
+
 <h1 align="left">About me</h1>
 
 ###
