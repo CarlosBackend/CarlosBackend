@@ -1,6 +1,14 @@
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkOG9pYnluOWxtY2hkZDJzbm92MmQycWhvMzduYnRucmd1Z3MwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9QPaTBrVjfxcv6/giphy.gif"  />
+  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGQ2aDBsZm5hZ25tc3Vzb2s2c29idThxZDlhMmpyMXNiaWVnZzhnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oOV3Dve9JsFbZj8IHG/giphy.gif"  />
 </div>
+
+###
+
+<h1 align="left">Carlos Henrique dos Santos</h1>
+
+###
+
+<p align="left">Hello! My name is Carlos Henrique, I am 26 years old and I am a Software Engineering student. I am currently focused on back-end development, but I also have solid knowledge in front-end (HTML, CSS, JavaScript and Bootstrap) and databases (MySQL, Postgresql, Docker). I have practical experience with object-oriented programming in PHP, Java, development of RESTful APIs, and projects focused on organization and best practices. In addition to academic studies, I am always seeking to develop my skills with my own projects, applying modern technologies and building solutions that make sense in practice. I am curious, self-taught, and enjoy solving problems with clean and well-structured code. I am constantly learning and open to opportunities where I can contribute, learn and grow professionally.</p>
 
 ###
 
@@ -28,15 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="40" alt="networkx logo"  />
 </div>
-
-###
-
-<h1 align="left">About - Carlos Henrique dos Santos</h1>
-
-###
-
-<p align="left">Student software engineer<br>Web developer<br>back-end developer</p>
 
 ###
 
